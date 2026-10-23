@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Om Dawande 👋
 
-<!--
-**omdawande1-a11y/omdawande1-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Engineering student specializing in **Cybersecurity** at G.H. Raisoni College of Engineering, with hands-on experience in threat intelligence, malware analysis, cloud security infrastructure, and digital forensics.
 
-Here are some ideas to get you started:
+- 🔭 **Currently Building:** UMIA Workbench (Unified Malware Investigation & Augmented Threat Intelligence Workbench).
+- 🛡️ **Technical Focus:** Web application security, Malware Analysis, threat detection
+- 💼 **Experience:** Ex-Cyber Crime Department Intern (Nagpur).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack & Skills
+* **Languages & Scripting:** Python, Java, C, PHP, JavaScript
+* **Security & Analysis Tools:** Kali Linux, Burp Suite, Proxychains, Tor, Docker, Wireshark
+* **Cloud & Security Infrastructure:** AWS (Boto3), PostgreSQL, Redis, Pandas, NumPy
