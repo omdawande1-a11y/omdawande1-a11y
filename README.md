@@ -1,6 +1,6 @@
 ### Hi there, I'm Om Dawande 👋
 
-I am a Computer Science Engineering student specializing in **Cybersecurity** at G.H. Raisoni College of Engineering, with hands-on experience in threat intelligence, malware analysis, cloud security infrastructure, and digital forensics.
+I am a Computer Science Engineering student specializing in **Cybersecurity** at G.H. Raisoni College of Engineering, with hands-on experience in Threat intelligence, Malware analysis, Web application security.
 
 - 🔭 **Currently Building:** UMIA Workbench (Unified Malware Investigation & Augmented Threat Intelligence Workbench).
 - 🛡️ **Technical Focus:** Web application security, Malware Analysis, threat detection
